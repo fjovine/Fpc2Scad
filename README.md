@@ -1,4 +1,7 @@
 ![intro](https://github.com/fjovine/Fpc2Scad/blob/master/doc/CS019.png)
+# installation
+No installation needed. Just download this (https://github.com/fjovine/Fpc2Scad/blob/master/Fpc2Scad.exe) and run from 
+the command prompt. Works under windows and under linux in the mono environment.
 
 # Fpc2Scad
 
