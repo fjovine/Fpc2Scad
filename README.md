@@ -1,7 +1,10 @@
+![intro](https://github.com/fjovine/Fpc2Scad/blob/master/doc/CS019.png)
+
 # Fpc2Scad
 
-**Creates 3D models for printed circuit boards developed with FreePCB, the open source CAD tool**  (http://www.freepcb.com).  
-It is an easy and powerful tool to place components on the board estate and route it manually or automatically.
+**Creates 3D models for printed circuit boards developed with FreePCB**
+
+FreePCB (http://www.freepcb.com) open source PCB CAD : an easy and powerful tool to place components and route the connections manually or automatically.
 
 OpenScad is a unique 3D modeller/editor that uses a C-like language to create 3D models. (http://www.openscad.org/).
 
