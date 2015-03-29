@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fpc/Part.cs">
+    <Files>
+      <File FileName="Fpc/Outline.cs" Line="1" Column="1" />
+      <File FileName="Fpc/Program.cs" Line="1" Column="1" />
+      <File FileName="Fpc/Part.cs" Line="44" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fpc>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Predefinito (Custom)" Id="8c94f704-e1c2-49a8-b402-6c6f7d166e5f" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="/home/fj/Dropbox/JOBS/JOB247-freepcb2oscad/CS024.fpc" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.Fpc>
+</Properties>

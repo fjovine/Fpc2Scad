@@ -1,0 +1,1 @@
+..\..\Fpc2Scad\bin\Debug\Fpc2Scad.exe -ggen ..\motor.fpc

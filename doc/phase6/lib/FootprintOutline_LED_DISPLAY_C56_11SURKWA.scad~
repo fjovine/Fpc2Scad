@@ -1,0 +1,36 @@
+module pinA(x,y)
+{
+	pinSide = 0.5;
+	translate([x-pinSide/2,y-pinSide/2,-4]) cube([pinSide,pinSide,5]);
+}
+
+module FootprintOutline_LED_DISPLAY_C56_11SURKWA ()
+{
+
+   color("red") {
+   linear_extrude(height=10) {
+    polygon([
+        [-6.72276,-13.4193],
+        [-7.5825,-7.19056],
+        [-8.3825,-6.49056],
+        [-9.0825,-6.49056],
+        [-8.30654,-12.4405],
+        [-7.91345,-13.0249],
+        [-7.2825,-13.3906],
+        [-6.72276,-13.4193]
+      ]);
+    }
+    }
+/*
+	color("gainsboro") {
+		for (ix=[0:18]) {
+			pinA(ix*2.54, 0);
+			pinA(ix*2.54, 15.24);
+		}
+	}
+	color("white")
+	translate([-3.56,-1.88,0])
+	cube([50.3,19,8.1]);*/
+}
+
+FootprintOutline_LED_DISPLAY_C56_11SURKWA ();

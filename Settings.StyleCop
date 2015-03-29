@@ -1,0 +1,25 @@
+<StyleCopSettings Version="105">
+  <Parsers>
+    <Parser ParserId="StyleCop.CSharp.CsParser">
+      <ParserSettings>
+        <CollectionProperty Name="GeneratedFileFilters">
+          <Value>TemporaryGeneratedFile_.*\.cs$</Value>
+        </CollectionProperty>
+      </ParserSettings>
+    </Parser>
+  </Parsers>
+  <GlobalSettings>
+    <CollectionProperty Name="DictionaryFolders">
+      <Value>..\Fpc\</Value>
+    </CollectionProperty>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>fpc</Value>
+      <Value>Fpc</Value>
+      <Value>index-th</Value>
+      <Value>openscad</Value>
+      <Value>Scad</Value>
+      <Value>struct</Value>
+      <Value>subtree</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings>
