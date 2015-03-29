@@ -16,5 +16,5 @@ The components can be modified manually, thus creating a 3D model closer to the 
 ## Motor example of FreePCB
 The FreePCB documentation shows a printer circuit board named `motor.fpc`
 
-![motor.fpc board]{doc/MotorController.png}
+![motor.fpc board]{https://github.com/fjovine/Fpc2Scad/blob/master/doc/MotorController.png}
 
